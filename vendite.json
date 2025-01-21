@@ -1,0 +1,37 @@
+[
+    {
+        "ids": [
+            1
+        ],
+        "prezzo": 3000.0,
+        "provvigione": 350.0
+    },
+    {
+        "ids": [
+            1
+        ],
+        "prezzo": 3000.0,
+        "provvigione": 350.0
+    },
+    {
+        "ids": [
+            1
+        ],
+        "prezzo": 3000.0,
+        "provvigione": 450.0
+    },
+    {
+        "ids": [
+            1
+        ],
+        "prezzo": 3000.0,
+        "provvigione": 350.0
+    },
+    {
+        "ids": [
+            1
+        ],
+        "prezzo": 3000.0,
+        "provvigione": 500.0
+    }
+]
